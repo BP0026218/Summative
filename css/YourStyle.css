@@ -42,6 +42,8 @@ row{
 width: 50%;}
 iframe{
 width: 100%;}
+.navbar{
+width:100%;}
 }
 
 #nb{float: left; /* Customising navbar with id nb*/
